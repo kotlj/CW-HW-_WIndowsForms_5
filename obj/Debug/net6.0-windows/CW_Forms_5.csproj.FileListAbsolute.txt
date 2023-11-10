@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\CW_Forms_5\bin\Debug\net6.0-windows\CW_Forms_5.exe
+C:\Users\Admin\source\repos\CW_Forms_5\bin\Debug\net6.0-windows\CW_Forms_5.deps.json
+C:\Users\Admin\source\repos\CW_Forms_5\bin\Debug\net6.0-windows\CW_Forms_5.runtimeconfig.json
+C:\Users\Admin\source\repos\CW_Forms_5\bin\Debug\net6.0-windows\CW_Forms_5.dll
+C:\Users\Admin\source\repos\CW_Forms_5\bin\Debug\net6.0-windows\CW_Forms_5.pdb
+C:\Users\Admin\source\repos\CW_Forms_5\obj\Debug\net6.0-windows\CW_Forms_5.MainForm.resources
+C:\Users\Admin\source\repos\CW_Forms_5\obj\Debug\net6.0-windows\CW_Forms_5.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\CW_Forms_5\obj\Debug\net6.0-windows\CW_Forms_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CW_Forms_5\obj\Debug\net6.0-windows\CW_Forms_5.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CW_Forms_5\obj\Debug\net6.0-windows\CW_Forms_5.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CW_Forms_5\obj\Debug\net6.0-windows\CW_Forms_5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CW_Forms_5\obj\Debug\net6.0-windows\CW_Forms_5.dll
+C:\Users\Admin\source\repos\CW_Forms_5\obj\Debug\net6.0-windows\refint\CW_Forms_5.dll
+C:\Users\Admin\source\repos\CW_Forms_5\obj\Debug\net6.0-windows\CW_Forms_5.pdb
+C:\Users\Admin\source\repos\CW_Forms_5\obj\Debug\net6.0-windows\CW_Forms_5.genruntimeconfig.cache
+C:\Users\Admin\source\repos\CW_Forms_5\obj\Debug\net6.0-windows\ref\CW_Forms_5.dll
+C:\Users\Admin\source\repos\CW_Forms_5\obj\Debug\net6.0-windows\CW_Forms_5.FormGridView.resources
