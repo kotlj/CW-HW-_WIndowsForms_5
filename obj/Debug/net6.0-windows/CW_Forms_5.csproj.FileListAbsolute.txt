@@ -15,3 +15,7 @@ C:\Users\Admin\source\repos\CW_Forms_5\obj\Debug\net6.0-windows\CW_Forms_5.pdb
 C:\Users\Admin\source\repos\CW_Forms_5\obj\Debug\net6.0-windows\CW_Forms_5.genruntimeconfig.cache
 C:\Users\Admin\source\repos\CW_Forms_5\obj\Debug\net6.0-windows\ref\CW_Forms_5.dll
 C:\Users\Admin\source\repos\CW_Forms_5\obj\Debug\net6.0-windows\CW_Forms_5.FormGridView.resources
+C:\Users\Admin\source\repos\CW_Forms_5\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\CW_Forms_5\obj\Debug\net6.0-windows\CW_Forms_5.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CW_Forms_5\obj\Debug\net6.0-windows\CW_Forms_5.csproj.CopyComplete
+C:\Users\Admin\source\repos\CW_Forms_5\obj\Debug\net6.0-windows\CW_Forms_5.FormDetailDialog.resources

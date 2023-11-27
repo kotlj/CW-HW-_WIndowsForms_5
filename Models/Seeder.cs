@@ -21,9 +21,9 @@ namespace CW_Forms_5.Models
         public static List<Product> initProduct(List<Category> cat)
         {
             List<Product> list = new List<Product>();
-            list.Add(new Product() { Name = "Space Adventure", Price = 778.4m, Category = cat.Where(e => e.Name.Equals("Books")).First() });
-            list.Add(new Product() { Name = "LG2", Price = 1078.4m, Category = cat.Where(e => e.Name.Equals("Smartphones")).First() });
-            list.Add(new Product() { Name = "Scisors", Price = 78.4m, Category = cat.Where(e => e.Name.Equals("Stationery")).First() });
+            //list.Add(new Product() { Name = "Space Adventure", Price = 778.4m, Category = cat.Where(e => e.Name.Equals("Books")).First() });
+            //list.Add(new Product() { Name = "LG2", Price = 1078.4m, Category = cat.Where(e => e.Name.Equals("Smartphones")).First() });
+            //list.Add(new Product() { Name = "Scisors", Price = 78.4m, Category = cat.Where(e => e.Name.Equals("Stationery")).First() });
             return list;
         }
     }

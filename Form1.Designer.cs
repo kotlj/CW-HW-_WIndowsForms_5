@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            components = new System.ComponentModel.Container();
             comboBoxCategory = new ComboBox();
             listBoxProducts = new ListBox();
             listBoxCart = new ListBox();
@@ -35,6 +36,9 @@
             textBoxPay = new TextBox();
             buttonDeleteFromCart = new Button();
             buttonDataGrid = new Button();
+            contextMenuStrip1 = new ContextMenuStrip(components);
+            detailToolStripMenuItem = new ToolStripMenuItem();
+            contextMenuStrip1.SuspendLayout();
             SuspendLayout();
             // 
             // comboBoxCategory
@@ -51,6 +55,7 @@
             listBoxProducts.FormattingEnabled = true;
             listBoxProducts.HorizontalScrollbar = true;
             listBoxProducts.ItemHeight = 20;
+            listBoxProducts.Items.AddRange(new object[] { "TestColl" });
             listBoxProducts.Location = new Point(312, 12);
             listBoxProducts.Name = "listBoxProducts";
             listBoxProducts.Size = new Size(476, 424);
@@ -60,6 +65,7 @@
             // 
             listBoxCart.FormattingEnabled = true;
             listBoxCart.ItemHeight = 20;
+            listBoxCart.Items.AddRange(new object[] { "TestColl" });
             listBoxCart.Location = new Point(12, 52);
             listBoxCart.Name = "listBoxCart";
             listBoxCart.Size = new Size(294, 384);
@@ -102,6 +108,20 @@
             buttonDataGrid.UseVisualStyleBackColor = true;
             buttonDataGrid.Click += buttonDataGrid_Click;
             // 
+            // contextMenuStrip1
+            // 
+            contextMenuStrip1.ImageScalingSize = new Size(20, 20);
+            contextMenuStrip1.Items.AddRange(new ToolStripItem[] { detailToolStripMenuItem });
+            contextMenuStrip1.Name = "contextMenuStrip1";
+            contextMenuStrip1.Size = new Size(211, 56);
+            // 
+            // detailToolStripMenuItem
+            // 
+            detailToolStripMenuItem.Name = "detailToolStripMenuItem";
+            detailToolStripMenuItem.Size = new Size(210, 24);
+            detailToolStripMenuItem.Text = "Detail";
+            detailToolStripMenuItem.Click += detailToolStripMenuItem_Click;
+            // 
             // MainForm
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
@@ -117,6 +137,7 @@
             Name = "MainForm";
             Text = "MainForm";
             Load += Form1_Load;
+            contextMenuStrip1.ResumeLayout(false);
             ResumeLayout(false);
             PerformLayout();
         }
@@ -130,5 +151,7 @@
         private TextBox textBoxPay;
         private Button buttonDeleteFromCart;
         private Button buttonDataGrid;
+        private ContextMenuStrip contextMenuStrip1;
+        private ToolStripMenuItem detailToolStripMenuItem;
     }
 }
